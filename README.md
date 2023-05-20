@@ -1,4 +1,4 @@
-- Summary of Machine Learning Project I have worked on.
+- Summary of Machine Learning Project I've worked on.
 ```
 1. 
 ```
