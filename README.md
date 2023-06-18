@@ -7,6 +7,7 @@
 
 ## ML Tutorials
 1. [TensorFlow vs. PyTorch](https://github.com/byunghyun23/tensorflow-vs-pytorch)
-2. [Optimal Image Classification Model](https://github.com/byunghyun23/image-classification)
+2. [Image Classification](https://github.com/byunghyun23/image-classification)
+3. [Image Search](https://github.com/byunghyun23/image-search)
 
 
