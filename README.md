@@ -6,8 +6,9 @@
 4. [Image Captioning using InceptionV3 and LSTM](https://github.com/byunghyun23/image-captioning)
 
 ## ML Tutorials
-1. [TensorFlow vs. PyTorch](https://github.com/byunghyun23/tensorflow-vs-pytorch)
-2. [Image Classification](https://github.com/byunghyun23/image-classification)
-3. [Image Search](https://github.com/byunghyun23/image-search)
+1. [Machine Learning Models for Classification](https://github.com/byunghyun23/ml-models)
+2. [TensorFlow vs. PyTorch](https://github.com/byunghyun23/tensorflow-vs-pytorch)
+3. [Image Classification](https://github.com/byunghyun23/image-classification)
+4. [Image Search](https://github.com/byunghyun23/image-search)
 
 
