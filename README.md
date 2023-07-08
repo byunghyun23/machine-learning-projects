@@ -10,5 +10,6 @@
 2. [TensorFlow vs. PyTorch](https://github.com/byunghyun23/tensorflow-vs-pytorch)
 3. [Image Classification](https://github.com/byunghyun23/image-classification)
 4. [Image Search](https://github.com/byunghyun23/image-search)
+5. [Object Detection](https://github.com/byunghyun23/object-detection)
 
 
