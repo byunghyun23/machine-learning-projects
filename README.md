@@ -11,5 +11,8 @@
 3. [Image Classification](https://github.com/byunghyun23/image-classification)
 4. [Image Search](https://github.com/byunghyun23/image-search)
 5. [Object Detection](https://github.com/byunghyun23/object-detection)
+6. [Semantic Segmentation](https://github.com/byunghyun23/semantic-segmentation)
+7. [Instance Segmentation](https://github.com/byunghyun23/instance-segmentation)
+   
 
 
