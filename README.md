@@ -5,7 +5,7 @@
 3. [A CNN-Attention Model for Epileptic Seizure Detection](https://github.com/byunghyun23/seizure-detection) - [IEEE Student Paper Contest 2021](https://byunghyun23.github.io/paper.pdf) ([Prize](https://byunghyun23.github.io/prize.pdf))
 4. [Image Captioning Using Inception-v3 and LSTM](https://github.com/byunghyun23/image-captioning)
 
-## ML Tutorials
+## ML Tutorials (Almost Computer Vision)
 1. [Machine Learning Models for Classification](https://github.com/byunghyun23/ml-models)
 2. [TensorFlow vs. PyTorch](https://github.com/byunghyun23/tensorflow-vs-pytorch)
 3. [Image Classification](https://github.com/byunghyun23/image-classification)
