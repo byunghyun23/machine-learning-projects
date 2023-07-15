@@ -10,7 +10,7 @@
 4. Epileptic Seizure Detection  
 ➡️ [A CNN-Attention Model for Epileptic Seizure Detection](https://github.com/byunghyun23/seizure-detection)  
 📃 [IEEE Student Paper Contest 2021](https://byunghyun23.github.io/paper.pdf)  
-🏆 ([Prize](https://byunghyun23.github.io/prize.pdf))
+🏆 [Prize](https://byunghyun23.github.io/prize.pdf)
 5. Image Captioning  
 ➡️ [Image Captioning Using Inception-v3 and LSTM](https://github.com/byunghyun23/image-captioning)
 6. Music Recommendation  
