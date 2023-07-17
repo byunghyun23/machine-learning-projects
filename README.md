@@ -16,7 +16,7 @@
 6. Music Recommendation  
 ➡️ [Music Recommendation Based on Facial Emotion Recognition Using MTCNN and VGG-Face](https://github.com/byunghyun23/facial-emotion)
 
-## ML Tutorials (Almost Computer Vision)
+## ML Tutorials
 1. [Machine Learning Models for Classification](https://github.com/byunghyun23/ml-models)
 2. [TensorFlow vs. PyTorch](https://github.com/byunghyun23/tensorflow-vs-pytorch)
 3. [Image Classification](https://github.com/byunghyun23/image-classification)
