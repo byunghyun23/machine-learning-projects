@@ -15,7 +15,7 @@
 ➡️ [Image Captioning Using Inception-v3 and LSTM](https://github.com/byunghyun23/image-captioning)
 6. Music Recommendation  
 ➡️ [Music Recommendation Based on Facial Emotion Recognition Using MTCNN and VGG-Face](https://github.com/byunghyun23/facial-emotion)
-7. SRGAN
+7. SRGAN  
 ➡️ [Super-Resolution Based on SRGAN and Sliding Window](https://github.com/byunghyun23/super-resolution)
    
 ## ML Tutorials
