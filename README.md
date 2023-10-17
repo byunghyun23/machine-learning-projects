@@ -16,7 +16,7 @@
 6. Music Recommendation  
 ➡️ [Music Recommendation Based on Facial Emotion Recognition Using MTCNN and VGG-Face](https://github.com/byunghyun23/facial-emotion)
 7. SRGAN  
-➡️ [Super-Resolution Based on SRGAN and Sliding Window](https://github.com/byunghyun23/super-resolution)
+➡️ [Super-Resolution Based on SRGAN with Sliding Window](https://github.com/byunghyun23/super-resolution)
    
 ## ML Tutorials
 1. [Machine Learning Models for Classification](https://github.com/byunghyun23/ml-models)
