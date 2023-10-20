@@ -17,7 +17,7 @@
 ➡️ [Music Recommendation Based on Facial Emotion Recognition Using MTCNN and VGG-Face](https://github.com/byunghyun23/facial-emotion)
 7. SRGAN  
 ➡️ [Super-Resolution Based on SRGAN with Sliding Window](https://github.com/byunghyun23/super-resolution)
-8. Contrastive Learning 
+8. Contrastive Learning  
 ➡️ [Contrastive Learning Verification](https://github.com/byunghyun23/contrastive-learning)
    
 ## ML Tutorials
